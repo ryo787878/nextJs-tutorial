@@ -1,3 +1,6 @@
 # nextJs-tutorial
 
-jojoasdf
+next.jsのプロジェクトチュートリアル
+
+URL
+https://nextjs.org/learn/dashboard-app/setting-up-your-database
